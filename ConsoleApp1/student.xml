@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <student>
   <name>Parham</name>
-  <studentId>40212345</studentId>
-  <age>20</age>
-  <major>Computer Engineering</major>
+  <studentId>14042480080</studentId>
+  <age>22</age>
+  <major>MULTI MEDIA</major>
   <gpa>17.5</gpa>
   <courses>
     <course>OOP</course>
-    <course>Database</course>
-    <course>Web Programming</course>
+    <course>Design</course>
+    <course>Animation</course>
   </courses>
 </student>

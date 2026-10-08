@@ -1,8 +1,8 @@
 {
-  "name": "Parham",
-  "studentId": "40212345",
-  "age": 20,
-  "major": "Computer Engineering",
+  "name": "Parham Yousefi",
+  "studentId": "14042480080",
+  "age": 22,
+  "major": "MULTI MEDIA",
   "gpa": 17.5,
-  "courses": ["OOP", "Database", "Web Programming"]
+  "courses": ["OOP"]
 }
